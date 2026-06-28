@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.321144,
+                    -7.428755,
+                    73.63407
+                ]
+            },
+            "properties": {
+                "name": "Kripik Tempe Bu Sumiati",
+                "styleUrl": "#__managed_style_1E1E958A1F403F65A254",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=8d6e63&id=2000&scale=4",
+                "nomor": "6282363274369"
+            },
+            "id": "0D6A6150EC4027F3CA0B"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.337471,
+                    -7.416767,
+                    63.375289
+                ]
+            },
+            "properties": {
+                "name": "UMKM Tahu Ibu Katmina",
+                "styleUrl": "#__managed_style_0FA73D6F16403F65A250",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=fbc02d&id=2000&scale=4",
+                "nomor": "6281373398734"
+            },
+            "id": "032085B37B4027F52B46"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.333759,
+                    -7.428237,
+                    66.601611
+                ]
+            },
+            "properties": {
+                "name": "Sambal Pecel Pak Misnan",
+                "styleUrl": "#__managed_style_0FA73D6F16403F65A250",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=fbc02d&id=2000&scale=4",
+                "nomor": "6285733687886"
+            },
+            "id": "072A92DF004028085B6E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.337162,
+                    -7.416917,
+                    64.081521
+                ]
+            },
+            "properties": {
+                "name": "Bakpao Pak Siswoko",
+                "styleUrl": "#__managed_style_0FA73D6F16403F65A250",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=fbc02d&id=2000&scale=4",
+                "nomor": "6281314207453"
+            },
+            "id": "08FB477852402813A272"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.335328,
+                    -7.424051,
+                    67.757641
+                ]
+            },
+            "properties": {
+                "name": "Kerupuk Rambak",
+                "styleUrl": "#__managed_style_05D6AFB6D7403F65A24F",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4",
+                "nomor": "6285708313178"
+            },
+            "id": "0C34FEF82440284C2841"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.322083,
+                    -7.427289,
+                    72.438746
+                ]
+            },
+            "properties": {
+                "name": "Kripik Tempe Bu Suryanita",
+                "styleUrl": "#__managed_style_049D6BAF4D40412D74B9",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4",
+                "nomor": "6285731815272"
+            },
+            "id": "02A42DCDB740412D74AC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.321707,
+                    -7.427183,
+                    72.43323
+                ]
+            },
+            "properties": {
+                "name": "Jamu Tradisional Mas Rudi",
+                "styleUrl": "#__managed_style_049D6BAF4D40412D74B9",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 4,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4",
+                "nomor": ""
+            },
+            "id": "020A367DC240412F8158"
+        }
+    ]
+}
