@@ -103,11 +103,11 @@ export default function DashboardPeta() {
     const posisiTengah: [number, number] = [-7.421669375163471, 111.33241853913857];
 
     useEffect(() => {
-        fetch('/desawonokerto.geojson')
+        fetch(`${import.meta.env.BASE_URL}desawonokerto.geojson`)
             .then((res) => res.json())
             .then((data) => setWilayahData(data));
 
-        fetch('/umkm.geojson')
+        fetch(`${import.meta.env.BASE_URL}umkm.geojson`)
             .then((res) => res.json())
             .then((data) => setUmkmData(data));
     }, []);
